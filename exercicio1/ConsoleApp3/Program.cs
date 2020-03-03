@@ -28,16 +28,31 @@ namespace ConsoleApp3
             Console.WriteLine(num1 + " x " +num2 + " = " + resultado);
 
             //Dividindo
-            resultado = 0;
-            int aux1 = num1;
-            while(aux1 >= num2)
+            int[] result = Dividir(num1, num2);
+
+
+            Console.WriteLine("Divisão -> " + num1 + " / " + num2 + " = " + result[0]);
+            Console.WriteLine("Resto da divisão -> " + num1 + " / " + num2 + " = " + result[1]);
+
+            int[] Dividir(int i, int y)
             {
-                aux1 -= num2;
-                resultado += 1;
+                int r = 0;
+                int aux1 = i;
+
+                int[] re = new int[2];
+
+                while (aux1 >= y)
+                {
+                    aux1 -= y;
+                    r += 1;
+                }
+
+                re[0] = r;
+                re[1] = aux1;
+
+                return re;
             }
 
-
-            Console.WriteLine(num1 + " / " + num2 + " = " + resultado);
 
 
             Console.ReadKey(); // system.pause

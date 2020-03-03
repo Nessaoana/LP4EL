@@ -4,3 +4,10 @@ C:\Users\IFSP\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
 C:\Users\IFSP\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
 C:\Users\IFSP\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 C:\Users\IFSP\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\ARQUIVOS DOS ALUNOS\nessa\LP4EL\exercicio1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\ARQUIVOS DOS ALUNOS\nessa\LP4EL\exercicio1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\ARQUIVOS DOS ALUNOS\nessa\LP4EL\exercicio1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\ARQUIVOS DOS ALUNOS\nessa\LP4EL\exercicio1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\ARQUIVOS DOS ALUNOS\nessa\LP4EL\exercicio1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS DOS ALUNOS\nessa\LP4EL\exercicio1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\ARQUIVOS DOS ALUNOS\nessa\LP4EL\exercicio1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
