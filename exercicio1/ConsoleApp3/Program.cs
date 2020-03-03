@@ -20,10 +20,8 @@ namespace ConsoleApp3
            
             // Multiplicando
 
-            for(int i=0; i <num2; i++)
-            {
-                resultado += num1;
-            }
+            resultado = Multiplicar(num1, num2);
+
 
             Console.WriteLine(num1 + " x " +num2 + " = " + resultado);
 
@@ -53,7 +51,17 @@ namespace ConsoleApp3
                 return re;
             }
 
+            int Multiplicar(int i, int y){
 
+                int re;
+
+                 for(int i=0; i <num2; i++)
+                 {
+                    re += num1;
+                 }
+
+                 return re;
+            }
 
             Console.ReadKey(); // system.pause
         }
